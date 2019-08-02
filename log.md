@@ -20,6 +20,15 @@
 
 ### Day 2: August 2, 2019
 
+**Today's Progress**: Today I started working with pygame library and managed to write a bit of code to display a game window, BUT I ran into problems with pylint having problems with pygame, I found something, that I need to whitelist pygame or add exceptions, but I've not managed to do that yet.
+
+**Thoughts**: I've read that it's basically a VS Code IDE problem, maybe I should use some other IDE when working with pygame. Subllime Text maybe.
+
+**Link(s) to work**: https://github.com/eXTure/code-playground/tree/master/Cross%20The%20Road
+
+
+### Day 3: August 3, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
