@@ -29,6 +29,15 @@
 
 ### Day 3: August 3, 2019
 
+**Today's Progress**: I continued to work on the game, added basic images, but more importantly, I started applying OOP practices for this game code.
+
+**Thoughts**: So I downloaded Atom, to work with pygame, no more problems and I like the design of it. Also I started using "Cmder", cmd alternative. It looks nicer and has git integration and I can use unix commands on it, like "ls"
+
+**Link(s) to work**: https://github.com/eXTure/code-playground/tree/master/Cross%20The%20Road
+
+
+### Day 4: August 4, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
