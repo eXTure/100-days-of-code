@@ -38,6 +38,15 @@
 
 ### Day 4: August 4, 2019
 
+**Today's Progress**: I've added keyboard controls to the game, also a background and other images, enemy functionality and border detection.
+
+**Thoughts**: Feels nice to be able to move the character, I'm now thinking about other functionalities I could add to this mini game! Although, I'll need to add enemy collision first.
+
+**Link(s) to work**: https://github.com/eXTure/code-playground/tree/master/Cross%20The%20Road
+
+
+### Day 5: August 5, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
