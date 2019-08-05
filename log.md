@@ -47,6 +47,24 @@
 
 ### Day 5: August 5, 2019
 
+**Today's Progress**: I've finished the game together with the tutorial so no I'm gonna be implementing my own improvements to the game. What tutorial did not cover was the collision of many entities and I'm trying to figure out, how to fix this. I've tried looping on list, but something is not right.
+
+**Thoughts**: I think next improvement should be score tracking and highscore table.
+
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
+
+
+### Day 6: August 6, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 7: August 7, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
