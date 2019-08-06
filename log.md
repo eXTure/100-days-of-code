@@ -56,11 +56,11 @@
 
 ### Day 6: August 6, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I've tried implementing a better solution for checking collision of multiple objects, but failed, so I implemented simpler solution for now. Also, I wanted to improve levels by making speed refresh to that of the first level, after additional entities appear, but I had problems with global variables, somehow it did not track the global variable. I'll have to come back to this later too.
 
-**Thoughts**: -
+**Thoughts**: To improve level design, I first drew out level/speed table on paper to better visualize difficulty system. This helped me a bit.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
 
 
 ### Day 7: August 7, 2019
