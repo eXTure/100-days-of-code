@@ -65,6 +65,24 @@
 
 ### Day 7: August 7, 2019
 
+**Today's Progress**: Finally I've managed to fix the correlation between level and speed. Also added logging.
+
+**Thoughts**: The game logic now works perfectly and I can send this game to a friend to try it out! Although I have to find out, how to make python app runnable without terminal.
+
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
+
+
+### Day 8: August 8, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 9: August 9, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
