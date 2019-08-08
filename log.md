@@ -74,11 +74,11 @@
 
 ### Day 8: August 8, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I've added scoring system with 2 functions: calculation of the score and writing score to the high score text file.
 
-**Thoughts**: -
+**Thoughts**: I think the next step is to ask what is the name of the player before the game starts, so that the scoring system make sense. And also, to add button where player could check highest score while in game
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
 
 
 ### Day 9: August 9, 2019
