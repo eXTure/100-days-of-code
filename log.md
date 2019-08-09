@@ -83,6 +83,24 @@
 
 ### Day 9: August 9, 2019
 
+**Today's Progress**: Added the ability to enter your name before the game has started and it is later displayed in the scores. Since scores are written randomly in the text file, I decided to create a sorting algorithm to sort name by the highest score.
+
+**Thoughts**: Reading and writing data to the txt file seems like unsafe and cumbersome choice. I'll have to check other options like excel or something.
+
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
+
+
+### Day 10: August 10, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 11: August 11, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
