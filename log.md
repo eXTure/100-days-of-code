@@ -92,11 +92,11 @@
 
 ### Day 10: August 10, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I've added a functionality to see your score while in game, by pressing space key. Also added an informing message when a player presses left or right shift key, a message appears on the screen that you can't run faster with shift key pressed. But that could be a new functionality later.
 
-**Thoughts**: -
+**Thoughts**: This time I didn't had much time, but I've managed to wake up earlier than I would need, to do the challenge.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
 
 
 ### Day 11: August 11, 2019
