@@ -101,6 +101,24 @@
 
 ### Day 11: August 11, 2019
 
+**Today's Progress**: Moved images to a separate folder and spent rest of the time looking up and trying out different ways of making a dictionary from a text file in order to sort my highscores file.
+
+**Thoughts**: Maybe I'm taking wrong approach here. Maybe dictionary is not the best choice for such task.
+
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
+
+
+### Day 12: August 12, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 13: August 13, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
