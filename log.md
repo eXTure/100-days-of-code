@@ -110,11 +110,11 @@
 
 ### Day 12: August 12, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Finally fixed and made the sorting algorithm for sorting highscores file.
 
-**Thoughts**: -
+**Thoughts**: This was probably the hardest thing I did on this project yet. I wrote 73 lines of code just to sort a single file. I'm sure an experienced programmer could find a better solution, but I felt good after cracking this one.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
 
 
 ### Day 13: August 13, 2019
