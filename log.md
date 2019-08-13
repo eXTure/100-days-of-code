@@ -119,6 +119,24 @@
 
 ### Day 13: August 13, 2019
 
+**Today's Progress**: I made it so that sorting algorithm is now automatically launched when a player looses the game and the score is counted. Also I found out, if you don't use name==main method with main() function, then, when you import the file, it's automatically launched.
+
+**Thoughts**: That wouldn't be fine, but then the scores would be sorted before the current game score is counted. I also found out 3 ways of launching external python file.
+
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
+
+
+### Day 14: August 14, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 15: August 15, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
