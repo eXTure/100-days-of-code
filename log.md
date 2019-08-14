@@ -128,11 +128,11 @@
 
 ### Day 14: August 14, 2019
 
-**Today's Progress**: -
+**Today's Progress**: My next aim is to display at least top three scores on screen while in game playing with a TAB key. I got down to how I would display them, but I can't get the scores yet. Since I could easily get top 3 sorted score in highscore_sorting.py file, I thought that's what I should do. But where I got stuck, is getting particular value from one python file into another. I found the solution of getting that value with import, but somehow it doesn't make it's way to the main file, I believe this might be because the file at first need to be run in order to access that particular value.
 
-**Thoughts**: -
+**Thoughts**: I'll figure out a way eventually.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
 
 
 ### Day 15: August 15, 2019
