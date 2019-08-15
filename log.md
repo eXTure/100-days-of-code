@@ -137,6 +137,24 @@
 
 ### Day 15: August 15, 2019
 
+**Today's Progress**: I've managed to get that value I was trying, now the highest scores are correctly display on the screen when a player presses TAB key.
+
+**Thoughts**: I think I'm done with this game for now, I implemented the functionalities that I thought about when I started working with this project. I'll have to start a different project, unless I'll think of other small improvements I could make. I already have other project ideas.
+
+**Link(s) to work**: https://github.com/eXTure/Cross-The-Road
+
+
+### Day 16: August 16, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 17: August 17, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
