@@ -146,11 +146,11 @@
 
 ### Day 16: August 16, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Started working on scraping, having problem with getting requests.
 
-**Thoughts**: -
+**Thoughts**: I found one possible solutions, I'll try another day.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/code-playground
 
 
 ### Day 17: August 17, 2019
