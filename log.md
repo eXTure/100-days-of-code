@@ -153,7 +153,25 @@
 **Link(s) to work**: https://github.com/eXTure/code-playground
 
 
-### Day 17: August 17, 2019
+### Day 17: August 18, 2019
+
+**Today's Progress**: I've managed to solve the request thing and scraped 2 different websites. I think I'll try to scrape something more difficult next time, since now I only tried getting contact data and similar stuff just to get started with scraping.
+
+**Thoughts**: Would be nice to think of something useful I could scrape for myself.
+
+**Link(s) to work**: https://github.com/eXTure/Python-Scrapes
+
+
+### Day 18: August 19, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 19: August 20, 2019
 
 **Today's Progress**: -
 
