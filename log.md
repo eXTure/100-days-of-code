@@ -164,11 +164,11 @@
 
 ### Day 18: August 19, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Scraped one more website and than moved on to working with flask. Prepared flask environment and initiated hello world page.
 
-**Thoughts**: -
+**Thoughts**: I found a good guide on flask, gonna follow it a bit since I have 0 knowledge about how to work with Flask.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask
 
 
 ### Day 19: August 20, 2019
