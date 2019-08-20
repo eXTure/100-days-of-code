@@ -173,6 +173,24 @@
 
 ### Day 19: August 20, 2019
 
+**Today's Progress**: Completed base and index templates, added more structure to the app. I really like the guide I found.
+
+**Thoughts**: Started using venv instead of pipenv, it's good to know both, but what I've noticed already is that pipenv was a lot more simpler.
+
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
+
+
+### Day 20: August 21, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 21: August 22, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
