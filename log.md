@@ -182,11 +182,11 @@
 
 ### Day 20: August 21, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Added working login form with validation and stuff. Ran into few errors, but all of them were of my mistyping mistakes. I liked the name of flask extension Flask-WTF. 
 
-**Thoughts**: -
+**Thoughts**: I see how python/flask impacts code for web, all the simplified "for" loops and other things, I could only imagine what it would look like with more ugly languages like java.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 21: August 22, 2019
