@@ -200,6 +200,33 @@
 
 ### Day 22: August 23, 2019
 
+**Today's Progress**: I worked more on databases to prepare them for usage.
+
+**Thoughts**: The whole database thing is a bit confusing, but I think I'll get it more when I'll see the big picture.
+
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
+
+
+### Day 23: August 24, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 24: August 25, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 25: August 26, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
