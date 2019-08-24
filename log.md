@@ -209,11 +209,11 @@
 
 ### Day 23: August 24, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Added registration of the user and move improvements, but now the website is not working.
 
-**Thoughts**: -
+**Thoughts**: I've spent a lot of time trying to solve this bug, I hope I'll manage to fix it.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 24: August 25, 2019
