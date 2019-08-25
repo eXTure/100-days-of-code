@@ -218,11 +218,11 @@
 
 ### Day 24: August 25, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I've fixed the issue, now everything is working, I'll now be able to continue this project.
 
-**Thoughts**: -
+**Thoughts**: I also realized I've made some mistakes in other git projects instructions in the readme files, so I fixed that too.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 25: August 26, 2019
