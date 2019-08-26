@@ -227,6 +227,60 @@
 
 ### Day 25: August 26, 2019
 
+**Today's Progress**: Improved the structure of the website, added profile page and avatars.
+
+**Thoughts**:
+
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
+
+
+### Day 26: August 27, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 27: August 28, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 28: August 29, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 29: August 30, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 30: August 31, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 31: September 1, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
