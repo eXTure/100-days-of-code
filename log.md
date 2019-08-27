@@ -236,11 +236,11 @@
 
 ### Day 26: August 27, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Created the edit profile pages for users to change their information. Currently user can change username and "about me" info.
 
-**Thoughts**: -
+**Thoughts**: I got used to Atom, I don't know if I'll go back to visual studio code IDE. Unless necessary, because Atom is so uncluttered and clean and I don't come up with any errors that would be caused by IDE.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 27: August 28, 2019
