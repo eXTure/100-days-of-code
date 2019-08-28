@@ -245,11 +245,11 @@
 
 ### Day 27: August 28, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I added error handling and also now when error occurs I get an email with the error message, to spot errors when users are using the site.
 
-**Thoughts**: -
+**Thoughts**: Building this site is requiring more time than I anticipated, but that's ok, considering I've never worked with flask before.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 28: August 29, 2019
