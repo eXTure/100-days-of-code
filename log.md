@@ -254,11 +254,11 @@
 
 ### Day 28: August 29, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I've added the functionality of follower/following and learned to create test cases for testing project.
 
-**Thoughts**: -
+**Thoughts**: I can now imagine how QA dev workflow looks like, creating test cases to test all scenarios.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 29: August 30, 2019
