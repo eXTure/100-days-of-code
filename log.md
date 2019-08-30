@@ -263,11 +263,11 @@
 
 ### Day 29: August 30, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Added functionality of writing a post and deleted fake posts. Because of this, a user now sees posts of other users in the index/home page.
 
-**Thoughts**: -
+**Thoughts**: I've found out you can resize the post writing form, I'll have to make it fixed.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 30: August 31, 2019
