@@ -272,11 +272,11 @@
 
 ### Day 30: August 31, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Added pagination functionality. Pagination is used to only load a certain amount of content into the page. Also added the buttons to go between pages of posts "Older/Newer". Also, there's now explore page to find other users and see everyone's posts.
 
-**Thoughts**: -
+**Thoughts**: By functionality, this page is very similar to twitter right now.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 31: September 1, 2019
