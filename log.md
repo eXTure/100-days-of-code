@@ -281,6 +281,24 @@
 
 ### Day 31: September 1, 2019
 
+**Today's Progress**: Added the functionality to reset your password if you forget it. Ran into a few bugs, but managed to solve them.
+
+**Thoughts**: Basically the structure and functionality of the website is complete and I will start to work on the front side soon.
+
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
+
+
+### Day 32: September 2, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 33: September 3, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
