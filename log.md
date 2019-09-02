@@ -290,11 +290,11 @@
 
 ### Day 32: September 2, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Updated the site visually with bootstrap. It now looks decent and consistent in style and there's actually less code now.
 
-**Thoughts**: -
+**Thoughts**: I remember when I first started working with web development, a few years ago, I used to switch my work on a website between functionality and visual parts and it would actually took more time. I really liked this approach, work only on the functionality and when it's done, then move on to the visual parts.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 33: September 3, 2019
