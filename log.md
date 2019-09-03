@@ -299,6 +299,42 @@
 
 ### Day 33: September 3, 2019
 
+**Today's Progress**: Reformatted date and time, started using flask-moment library. Messages now show, what time ago a post were posted.
+
+**Thoughts**:
+
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
+
+
+### Day 34: September 4, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 35: September 5, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 36: September 6, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 37: September 7, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
