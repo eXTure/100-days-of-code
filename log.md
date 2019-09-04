@@ -308,11 +308,11 @@
 
 ### Day 34: September 4, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Working with translations now.
 
-**Thoughts**: -
+**Thoughts**: Though translating is not a difficult task, it took me more time, since I had to go through all the files and check the strings to prepare them for translation extraction.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 35: September 5, 2019
