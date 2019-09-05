@@ -229,8 +229,6 @@
 
 **Today's Progress**: Improved the structure of the website, added profile page and avatars.
 
-**Thoughts**:
-
 **Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
@@ -301,8 +299,6 @@
 
 **Today's Progress**: Reformatted date and time, started using flask-moment library. Messages now show, what time ago a post were posted.
 
-**Thoughts**:
-
 **Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
@@ -317,11 +313,9 @@
 
 ### Day 35: September 5, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Initialized Lithuanian language and also added language translation cli. (Command Line Integrations)
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 36: September 6, 2019
