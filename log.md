@@ -320,11 +320,11 @@
 
 ### Day 36: September 6, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Started working on client side translations with ajax.
 
-**Thoughts**: -
+**Thoughts**: Had to create a Microsoft Azure account for translations API, but messed up my credit card info and can't continue right now. Will have to continue on this tomorrow.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 37: September 7, 2019
