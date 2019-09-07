@@ -329,6 +329,15 @@
 
 ### Day 37: September 7, 2019
 
+**Today's Progress**: Fixed the issue with Microsoft Azure and managed to get all the translation stuff working.
+
+**Thoughts**: I spent a lot of time on fixing a bug. Everything seemed correct, but automatic translations would not work. After few hours of reading and trying out different code I've managed to fix it. That really made me happy!
+
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
+
+
+### Day 38: September 8, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
