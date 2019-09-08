@@ -338,6 +338,123 @@
 
 ### Day 38: September 8, 2019
 
+**Today's Progress**: Changed the structure of the project, so that it would scale better.
+
+**Thoughts**: Changing the structure caused a few problems, but it seems I've managed to solve them.
+
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
+
+
+### Day 39: September 9, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 40: September 10, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 41: September 11, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 42: September 12, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 43: September 13, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 44: September 14, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 45: September 15, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 46: September 16, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 47: September 17, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 48: September 18, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 49: September 19, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 50: September 20, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 51: September 21, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
