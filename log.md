@@ -347,11 +347,9 @@
 
 ### Day 39: September 9, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Started working toward search functionality. I'm using Elastic Search.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 40: September 10, 2019
