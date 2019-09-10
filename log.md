@@ -354,11 +354,9 @@
 
 ### Day 40: September 10, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I've finished search functionality. The search bar is now fully working, although I've noticed that the search only finds full words, other than that it's working really well. I also ran into an error 405. Stack overflow helped me out. Turns out I wrote method POST instead of GET for the search form.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 41: September 11, 2019
