@@ -361,11 +361,9 @@
 
 ### Day 41: September 11, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Started setting up for deploying website to an actual server. Currently I'll be using free software: VirtualBox and Vagrant.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 42: September 12, 2019
