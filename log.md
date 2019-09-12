@@ -368,11 +368,9 @@
 
 ### Day 42: September 12, 2019
 
-**Today's Progress**: -
+**Today's Progress**: https://programitter.herokuapp.com/ Finally, the website is up and running, although I found a bug, when I post something, the page crashes, but post is successfully submited to the database. I'll have to fix it another day.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 43: September 13, 2019
