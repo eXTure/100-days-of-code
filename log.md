@@ -375,11 +375,9 @@
 
 ### Day 43: September 13, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Spent the whole time trying to fix the bug. Unsuccessfully still.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 44: September 14, 2019
