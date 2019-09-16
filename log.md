@@ -380,7 +380,16 @@
 **Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
-### Day 44: September 14, 2019
+### Day 44: September 16, 2019
+
+**Today's Progress**: I'm still trying to fix the bug, but I gained some progress. The issue lies not on the database side, but on the requests side, since posts are submitted successfully, but redirection after submitting is not working properly, and you can just press "back" and everything's there with the new post.  
+
+**Thoughts**: I took 2 days off of the challenge since I went on a weekend trip, but I haven't had any days off for about 5 weeks, so I think it's fair.
+
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
+
+
+### Day 45: September 17, 2019
 
 **Today's Progress**: -
 
@@ -389,7 +398,7 @@
 **Link(s) to work**:
 
 
-### Day 45: September 15, 2019
+### Day 46: September 18, 2019
 
 **Today's Progress**: -
 
@@ -398,7 +407,7 @@
 **Link(s) to work**:
 
 
-### Day 46: September 16, 2019
+### Day 47: September 19, 2019
 
 **Today's Progress**: -
 
@@ -407,7 +416,7 @@
 **Link(s) to work**:
 
 
-### Day 47: September 17, 2019
+### Day 48: September 20, 2019
 
 **Today's Progress**: -
 
@@ -416,7 +425,7 @@
 **Link(s) to work**:
 
 
-### Day 48: September 18, 2019
+### Day 49: September 21, 2019
 
 **Today's Progress**: -
 
@@ -425,7 +434,7 @@
 **Link(s) to work**:
 
 
-### Day 49: September 19, 2019
+### Day 50: September 22, 2019
 
 **Today's Progress**: -
 
@@ -434,16 +443,7 @@
 **Link(s) to work**:
 
 
-### Day 50: September 20, 2019
-
-**Today's Progress**: -
-
-**Thoughts**: -
-
-**Link(s) to work**:
-
-
-### Day 51: September 21, 2019
+### Day 51: September 23, 2019
 
 **Today's Progress**: -
 
