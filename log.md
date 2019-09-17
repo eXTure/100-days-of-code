@@ -391,11 +391,11 @@
 
 ### Day 45: September 17, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I DID IT, I FIXED THE BUG!!!! I was really getting frustrated with this bug, since posting is the main functionality of the website. Turns out it was a problem with multiple commits to the database, I needed to flush the database.
 
-**Thoughts**: -
+**Thoughts**: I even wrote a letter to the writer of the article, Michael Cho, a thank you letter.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 46: September 18, 2019
