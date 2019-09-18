@@ -400,11 +400,9 @@
 
 ### Day 46: September 18, 2019
 
-**Today's Progress**: -
+**Today's Progress**: So, there was only one bug left, that you couldn't press next/previous page buttons, or so I thought! After investigating the "bug", turns out there were not enough posts for the website to need another page for posts, so I decided to reduce the number of posts per page from 25 to 20. Also, since the website url were programitter.herokuapp.com, I changes the title and names of the website to Programitter.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 47: September 19, 2019
