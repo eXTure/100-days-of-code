@@ -400,18 +400,18 @@
 
 ### Day 46: September 18, 2019
 
-**Today's Progress**: So, there was only one bug left, that you couldn't press next/previous page buttons, or so I thought! After investigating the "bug", turns out there were not enough posts for the website to need another page for posts, so I decided to reduce the number of posts per page from 25 to 20. Also, since the website url were programitter.herokuapp.com, I changes the title and names of the website to Programitter.
+**Today's Progress**: So, there was only one bug left, that you couldn't press next/previous page buttons, or so I thought! After investigating the "bug", turns out there were not enough posts for the website to need another page for posts, so I decided to reduce the number of posts per page from 25 to 20. Also, since the website URL were programitter.herokuapp.com, I changes the title and names of the website to Programitter.
 
 **Link(s) to work**: https://github.com/eXTure/Website-with-Flask/tree/master/microblog
 
 
 ### Day 47: September 19, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Since website is in a stable state, with no known bugs, I decided to move away from the website for now. I didn't have much time today, so instead of a project, I decided to do a coding challenge on PyBites. I chose a challenge with string manipulation. I managed to complete a part of the challenge, but I still need to address more difficult cases.
 
-**Thoughts**: -
+**Thoughts**: I'll be moving back to coding school project.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/string_rotation.py
 
 
 ### Day 48: September 20, 2019
