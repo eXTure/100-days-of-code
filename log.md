@@ -416,11 +416,9 @@
 
 ### Day 48: September 20, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Still working on the string manipulation. It's harder than I thought. I've tested out a few versions, but none of them could pass all tests provided by the PyBites, so I'll keep working on it.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/string_rotation.py
 
 
 ### Day 49: September 21, 2019
