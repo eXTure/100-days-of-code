@@ -423,11 +423,9 @@
 
 ### Day 49: September 21, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I got back to the video content measuring tool project. Didn't code much, since the work included other tasks.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 50: September 22, 2019
