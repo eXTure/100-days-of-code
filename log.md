@@ -430,11 +430,9 @@
 
 ### Day 50: September 22, 2019
 
-**Today's Progress**: -
+**Today's Progress**: More data model preparation work.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 51: September 23, 2019
