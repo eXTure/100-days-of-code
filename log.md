@@ -437,6 +437,22 @@
 
 ### Day 51: September 23, 2019
 
+**Today's Progress**: Finished with the image set, all annotated and in VOC format. Having some problems with darknet.
+
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
+
+
+### Day 52: September 24, 2019
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+
+
+### Day 53: September 25, 2019
+
 **Today's Progress**: -
 
 **Thoughts**: -
