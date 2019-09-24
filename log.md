@@ -444,11 +444,9 @@
 
 ### Day 52: September 24, 2019
 
-**Today's Progress**: -
+**Today's Progress**: Trying out darkflow/darknet on Ubuntu.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 53: September 25, 2019
