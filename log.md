@@ -451,8 +451,6 @@
 
 ### Day 53: September 25, 2019
 
-**Today's Progress**: -
+**Today's Progress**: I've managed to run the training of the model on ubuntu, but the laptop couldn't handle such intense task, since it's an old laptop. I'll have to figure it out in some other way.
 
-**Thoughts**: -
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
