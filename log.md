@@ -454,3 +454,55 @@
 **Today's Progress**: I've managed to run the training of the model on ubuntu, but the laptop couldn't handle such intense task, since it's an old laptop. I'll have to figure it out in some other way.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
+
+
+### Day 54: September 26, 2019
+
+**Today's Progress**: I've manage to start linux ubuntu on VirtualBox and did everything that's neccessary to start training the model. So now I have to PC's in training mode. I wonder how long it will take to finish the training, since the laptop is already training for full 24 hours!
+
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
+
+
+### Day 55: September 27, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day 55: September 28, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day 56: September 29, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day 57: September 30, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day 58: November 01, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
