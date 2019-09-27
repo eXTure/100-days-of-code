@@ -465,11 +465,9 @@
 
 ### Day 55: September 27, 2019
 
-**Today's Progress**:
+**Today's Progress**: Turns out you have to stop the training manually and I was running the training for more than 2 days, and I was nearing the "overfitting". Trying to figure out how to train my own model.
 
-**Thoughts**:
-
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 55: September 28, 2019
