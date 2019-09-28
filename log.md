@@ -472,11 +472,9 @@
 
 ### Day 55: September 28, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked with string rotation challenge, since I've been writing very little code on other days.
 
-**Thoughts**:
-
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/string_rotation.py
 
 
 ### Day 56: September 29, 2019
@@ -485,7 +483,7 @@
 
 **Thoughts**:
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 
 ### Day 57: September 30, 2019
@@ -494,7 +492,7 @@
 
 **Thoughts**:
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 
 ### Day 58: November 01, 2019
@@ -503,4 +501,4 @@
 
 **Thoughts**:
 
-**Link(s) to work**: 
+**Link(s) to work**:
