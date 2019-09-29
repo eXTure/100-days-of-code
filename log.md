@@ -479,11 +479,11 @@
 
 ### Day 56: September 29, 2019
 
-**Today's Progress**:
+**Today's Progress**: I finished the challenge, string is now rotated correctly.
 
-**Thoughts**:
+**Thoughts**: Turns out the correct solution was so simple and short, it was a 1 line solution and I wrote about 40 lines...
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/string_rotation.py
 
 
 ### Day 57: September 30, 2019
