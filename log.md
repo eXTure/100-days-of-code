@@ -488,11 +488,9 @@
 
 ### Day 57: September 30, 2019
 
-**Today's Progress**:
+**Today's Progress**: Working on a classifier, ran into problems with ubuntu versions. I'll try the same on a laptop.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 58: November 01, 2019
