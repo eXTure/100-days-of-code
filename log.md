@@ -493,7 +493,113 @@
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 58: November 01, 2019
+### Day 58: November 1, 2019
+
+**Today's Progress**: Managed to plow through some of the bugs/error and ran into more bugs and errors. All in all, a productive day, since I moved forward a bit.
+
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
+
+
+### Day 59: November 2, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 60: November 3, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 61: November 3, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 62: November 4, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 63: November 5, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 64: November 6, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 65: November 7, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 66: November 8, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 67: November 9, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 68: November 10, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 69: November 11, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 70: November 12, 2019
 
 **Today's Progress**:
 
