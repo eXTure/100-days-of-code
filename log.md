@@ -493,14 +493,30 @@
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 58: November 1, 2019
+### Day 58: October 1, 2019
 
 **Today's Progress**: Managed to plow through some of the bugs/error and ran into more bugs and errors. All in all, a productive day, since I moved forward a bit.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 59: November 2, 2019
+### Day 59: October 2, 2019
+
+**Today's Progress**: Tried out some other solutions, but none of them were what I needed.
+
+**Link(s) to work**:
+
+
+### Day 60: October 3, 2019
+
+**Today's Progress**: After more digging, I'm starting to get a clearer picture of what I need to do, but I'm not there yet. Tried out a few scripts.
+
+**Thoughts**: Actually, yesterday I forgot to push log update to github.
+
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
+
+
+### Day 61: October 3, 2019
 
 **Today's Progress**:
 
@@ -509,7 +525,7 @@
 **Link(s) to work**:
 
 
-### Day 60: November 3, 2019
+### Day 62: October 4, 2019
 
 **Today's Progress**:
 
@@ -518,7 +534,7 @@
 **Link(s) to work**:
 
 
-### Day 61: November 3, 2019
+### Day 63: October 5, 2019
 
 **Today's Progress**:
 
@@ -527,7 +543,7 @@
 **Link(s) to work**:
 
 
-### Day 62: November 4, 2019
+### Day 64: October 6, 2019
 
 **Today's Progress**:
 
@@ -536,7 +552,7 @@
 **Link(s) to work**:
 
 
-### Day 63: November 5, 2019
+### Day 65: October 7, 2019
 
 **Today's Progress**:
 
@@ -545,7 +561,7 @@
 **Link(s) to work**:
 
 
-### Day 64: November 6, 2019
+### Day 66: October 8, 2019
 
 **Today's Progress**:
 
@@ -554,7 +570,7 @@
 **Link(s) to work**:
 
 
-### Day 65: November 7, 2019
+### Day 67: October 9, 2019
 
 **Today's Progress**:
 
@@ -563,7 +579,7 @@
 **Link(s) to work**:
 
 
-### Day 66: November 8, 2019
+### Day 68: October 10, 2019
 
 **Today's Progress**:
 
@@ -572,7 +588,7 @@
 **Link(s) to work**:
 
 
-### Day 67: November 9, 2019
+### Day 69: October 11, 2019
 
 **Today's Progress**:
 
@@ -581,25 +597,7 @@
 **Link(s) to work**:
 
 
-### Day 68: November 10, 2019
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-
-### Day 69: November 11, 2019
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-
-### Day 70: November 12, 2019
+### Day 70: October 12, 2019
 
 **Today's Progress**:
 
