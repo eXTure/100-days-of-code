@@ -518,11 +518,9 @@
 
 ### Day 61: October 3, 2019
 
-**Today's Progress**:
+**Today's Progress**: Completed a challenge on PyBites platform.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/numbers_sum.py
 
 
 ### Day 62: October 4, 2019
