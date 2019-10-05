@@ -525,11 +525,9 @@
 
 ### Day 62: October 4, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a challenge on PyBites. I did everything as required, and I get the correct result, but somehow tests fail.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/alpha_numeric.py
 
 
 ### Day 63: October 5, 2019
