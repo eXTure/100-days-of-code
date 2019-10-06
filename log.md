@@ -532,11 +532,9 @@
 
 ### Day 63: October 5, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a few challenges from PyBites.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 64: October 6, 2019
