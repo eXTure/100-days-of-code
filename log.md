@@ -539,11 +539,9 @@
 
 ### Day 64: October 6, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked with the main project, I think I'm getting the errors, because when I labeled images, I did it on windows, but I'm working with darknet on ubuntu.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 65: October 7, 2019
