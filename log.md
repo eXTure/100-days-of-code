@@ -546,11 +546,9 @@
 
 ### Day 65: October 7, 2019
 
-**Today's Progress**:
+**Today's Progress**: I decided to do, what I should've done on day one of the challenge. Create a script, to automatically push challenge update to Github. So, that's what I did.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/100-days-of-code
 
 
 ### Day 66: October 8, 2019
