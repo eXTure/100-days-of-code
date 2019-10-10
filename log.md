@@ -553,11 +553,9 @@
 
 ### Day 66: October 8, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked with the main project, trying out things.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 67: October 9, 2019
