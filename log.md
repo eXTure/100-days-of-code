@@ -516,49 +516,56 @@
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 61: October 3, 2019
+### Day 61: October 4, 2019
 
 **Today's Progress**: Completed a challenge on PyBites platform.
 
 **Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/numbers_sum.py
 
 
-### Day 62: October 4, 2019
+### Day 62: October 5, 2019
 
 **Today's Progress**: Did a challenge on PyBites. I did everything as required, and I get the correct result, but somehow tests fail.
 
 **Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/alpha_numeric.py
 
 
-### Day 63: October 5, 2019
+### Day 63: October 6, 2019
 
 **Today's Progress**: Did a few challenges from PyBites.
 
 **Link(s) to work**: https://codechalleng.es/
 
 
-### Day 64: October 6, 2019
+### Day 64: October 7, 2019
 
 **Today's Progress**: Worked with the main project, I think I'm getting the errors, because when I labeled images, I did it on windows, but I'm working with darknet on ubuntu.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 65: October 7, 2019
+### Day 65: October 8, 2019
 
 **Today's Progress**: I decided to do, what I should've done on day one of the challenge. Create a script, to automatically push challenge update to Github. So, that's what I did.
 
 **Link(s) to work**: https://github.com/eXTure/100-days-of-code
 
 
-### Day 66: October 8, 2019
+### Day 66: October 9, 2019
 
 **Today's Progress**: Worked with the main project, trying out things.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 67: October 9, 2019
+### Day 67: October 11, 2019
+
+**Today's Progress**: Worked with the main project, bug fixing.
+
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
+
+
+### Day 68: October 12, 2019
 
 **Today's Progress**:
 
@@ -567,7 +574,7 @@
 **Link(s) to work**:
 
 
-### Day 68: October 10, 2019
+### Day 69: October 13, 2019
 
 **Today's Progress**:
 
@@ -576,16 +583,7 @@
 **Link(s) to work**:
 
 
-### Day 69: October 11, 2019
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-
-### Day 70: October 12, 2019
+### Day 70: October 14, 2019
 
 **Today's Progress**:
 
