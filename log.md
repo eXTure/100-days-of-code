@@ -567,11 +567,9 @@
 
 ### Day 68: October 12, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked with main project, fixing annotations.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 69: October 13, 2019
