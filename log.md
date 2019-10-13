@@ -470,14 +470,14 @@
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 55: September 28, 2019
+### Day 56: September 28, 2019
 
 **Today's Progress**: Worked with string rotation challenge, since I've been writing very little code on other days.
 
 **Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/string_rotation.py
 
 
-### Day 56: September 29, 2019
+### Day 57: September 29, 2019
 
 **Today's Progress**: I finished the challenge, string is now rotated correctly.
 
@@ -486,28 +486,28 @@
 **Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/string_rotation.py
 
 
-### Day 57: September 30, 2019
+### Day 58: September 30, 2019
 
 **Today's Progress**: Working on a classifier, ran into problems with ubuntu versions. I'll try the same on a laptop.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 58: October 1, 2019
+### Day 59: October 1, 2019
 
 **Today's Progress**: Managed to plow through some of the bugs/error and ran into more bugs and errors. All in all, a productive day, since I moved forward a bit.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 59: October 2, 2019
+### Day 60: October 2, 2019
 
 **Today's Progress**: Tried out some other solutions, but none of them were what I needed.
 
 **Link(s) to work**:
 
 
-### Day 60: October 3, 2019
+### Day 61: October 3, 2019
 
 **Today's Progress**: After more digging, I'm starting to get a clearer picture of what I need to do, but I'm not there yet. Tried out a few scripts.
 
@@ -516,63 +516,70 @@
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 61: October 4, 2019
+### Day 62: October 4, 2019
 
 **Today's Progress**: Completed a challenge on PyBites platform.
 
 **Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/numbers_sum.py
 
 
-### Day 62: October 5, 2019
+### Day 63: October 5, 2019
 
 **Today's Progress**: Did a challenge on PyBites. I did everything as required, and I get the correct result, but somehow tests fail.
 
 **Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/alpha_numeric.py
 
 
-### Day 63: October 6, 2019
+### Day 64: October 6, 2019
 
 **Today's Progress**: Did a few challenges from PyBites.
 
 **Link(s) to work**: https://codechalleng.es/
 
 
-### Day 64: October 7, 2019
+### Day 65: October 7, 2019
 
 **Today's Progress**: Worked with the main project, I think I'm getting the errors, because when I labeled images, I did it on windows, but I'm working with darknet on ubuntu.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 65: October 8, 2019
+### Day 66: October 8, 2019
 
 **Today's Progress**: I decided to do, what I should've done on day one of the challenge. Create a script, to automatically push challenge update to Github. So, that's what I did.
 
 **Link(s) to work**: https://github.com/eXTure/100-days-of-code
 
 
-### Day 66: October 9, 2019
+### Day 67: October 9, 2019
 
 **Today's Progress**: Worked with the main project, trying out things.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 67: October 11, 2019
+### Day 68: October 11, 2019
 
 **Today's Progress**: Worked with the main project, bug fixing.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 68: October 12, 2019
+### Day 69: October 12, 2019
 
 **Today's Progress**: Worked with main project, fixing annotations.
 
 **Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
-### Day 69: October 13, 2019
+### Day 70: October 13, 2019
+
+**Today's Progress**: Did a challenge on PyBites platform.
+
+**Link(s) to work**: https://codechalleng.es/
+
+
+### Day 71: October 14, 2019
 
 **Today's Progress**:
 
@@ -581,7 +588,259 @@
 **Link(s) to work**:
 
 
-### Day 70: October 14, 2019
+### Day 72: October 15, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 73: October 16, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 74: October 17, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 75: October 18, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 76: October 19, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 77: October 20, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 78: October 21, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 79: October 22, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 80: October 23, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 81: October 24, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 82: October 25, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 83: October 26, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 84: October 27, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 85: October 28, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 86: October 29, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 87: October 30, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 88: October 31, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 89: November 1, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 90: November 2, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 91: November 3, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 92: November 4, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 93: November 5, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 94: November 6, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 95: November 7, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 96: November 8, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 97: November 9, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 98: November 10, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 99: November 11, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 100: November 12, 2019
 
 **Today's Progress**:
 
