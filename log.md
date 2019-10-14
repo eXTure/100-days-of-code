@@ -581,11 +581,9 @@
 
 ### Day 71: October 14, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked with the main project, tried to fix the things I thouhgt were caused because I annotations were done on windows, but it seems like the problem lies elsewhere.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 72: October 15, 2019
