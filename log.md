@@ -595,11 +595,9 @@
 
 ### Day 73: October 16, 2019
 
-**Today's Progress**:
+**Today's Progress**: Went back to basics with the main project for today. Filling gaps in knowledge.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 74: October 17, 2019
