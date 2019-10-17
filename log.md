@@ -602,11 +602,9 @@
 
 ### Day 74: October 17, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a Pybites challenge.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/code-playground/blob/master/alpha_numeric.py
 
 
 ### Day 75: October 18, 2019
