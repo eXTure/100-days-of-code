@@ -609,11 +609,9 @@
 
 ### Day 75: October 18, 2019
 
-**Today's Progress**:
+**Today's Progress**: Wroked with the main project, trying out new tool for labeling images.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 76: October 19, 2019
