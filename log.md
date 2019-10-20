@@ -623,11 +623,9 @@
 
 ### Day 77: October 20, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked with the main project, I finally managed to convert and prepare the files needed for the data model training.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 78: October 21, 2019
