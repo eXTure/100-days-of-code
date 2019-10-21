@@ -630,11 +630,9 @@
 
 ### Day 78: October 21, 2019
 
-**Today's Progress**:
+**Today's Progress**: FINALLY! Worked with the main project, finally, I got past/ fixed all the errors and my data model is now training. I'm gonna leave it to train for a day, and then check the results, I hope it will come out at least a bit usefull and detect what I intent it to detect!
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 79: October 22, 2019
