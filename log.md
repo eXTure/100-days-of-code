@@ -637,11 +637,9 @@
 
 ### Day 79: October 22, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked with the main project, turns out I didn't set up cfg files correctly, but after changing them I still get bad results, I'll try different cfg settings.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 80: October 23, 2019
