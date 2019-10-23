@@ -644,11 +644,11 @@
 
 ### Day 80: October 23, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked with the main project, managed to configure everything correctly, the model is now in training.
 
-**Thoughts**:
+**Thoughts**: I'm not sure why I keep writing project link here, since I'm not pushing changes t othe project repository, until it works.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 81: October 24, 2019
