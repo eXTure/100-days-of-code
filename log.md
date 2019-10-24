@@ -653,11 +653,9 @@
 
 ### Day 81: October 24, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a PyBites challenge with list comprehensions. The main project is still in training, I think it's going to take a few days to finish.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 82: October 25, 2019
