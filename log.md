@@ -667,11 +667,9 @@
 
 ### Day 83: October 26, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did another PyBites challenge. Main project is still in training.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 84: October 27, 2019
