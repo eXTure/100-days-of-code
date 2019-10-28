@@ -681,11 +681,9 @@
 
 ### Day 85: October 28, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a PyBites challenge with recursion, I think I get the concept now. Main project is still in training.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 86: October 29, 2019
