@@ -688,11 +688,9 @@
 
 ### Day 86: October 29, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did challenges on SoloLearn. Main project is still in training.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://www.sololearn.com/
 
 
 ### Day 87: October 30, 2019
