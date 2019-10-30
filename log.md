@@ -695,11 +695,9 @@
 
 ### Day 87: October 30, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a PyBites challenge, but than I realised that I understood the challenge wrong. The main project is still in training and it's going slowly, it's only the ~115'th iteration right now.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 88: October 31, 2019
