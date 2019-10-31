@@ -702,11 +702,9 @@
 
 ### Day 88: October 31, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did more challenges on SoloLearn. Main project is still in training.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://www.sololearn.com/
 
 
 ### Day 89: November 1, 2019
