@@ -709,11 +709,9 @@
 
 ### Day 89: November 1, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a PyBites challenge. Main project is still in training, 116'th iteration.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 90: November 2, 2019
