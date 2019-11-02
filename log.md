@@ -504,7 +504,7 @@
 
 **Today's Progress**: Tried out some other solutions, but none of them were what I needed.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 61: October 3, 2019
@@ -716,11 +716,9 @@
 
 ### Day 90: November 2, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a couple of challenges on PyBites platform. Main project still in training. Since weights get saved every 100 iterations, I guess I'll wait for 200 and then try out the weights.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 91: November 3, 2019
