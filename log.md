@@ -723,11 +723,9 @@
 
 ### Day 91: November 3, 2019
 
-**Today's Progress**:
+**Today's Progress**: Completed a challenge on PyBites website. Main project is still in training.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 92: November 4, 2019
