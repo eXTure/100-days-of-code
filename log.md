@@ -730,11 +730,9 @@
 
 ### Day 92: November 4, 2019
 
-**Today's Progress**:
+**Today's Progress**: Di a PyBites challenge with Named Touples. Main project is on 125'th iteration.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 93: November 5, 2019
