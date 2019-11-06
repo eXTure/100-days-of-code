@@ -744,11 +744,9 @@
 
 ### Day 94: November 6, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a challenge on PyBites platform with lambda expressions. Main project is on 174th iteration.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 95: November 7, 2019
