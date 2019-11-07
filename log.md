@@ -751,11 +751,9 @@
 
 ### Day 95: November 7, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a challenge on PyBites platform. Main project is on 211th iteration.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 96: November 8, 2019
