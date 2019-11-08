@@ -758,11 +758,9 @@
 
 ### Day 96: November 8, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did more challenges on SoloLearn. Main project is on 224th iteration.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://www.sololearn.com/
 
 
 ### Day 97: November 9, 2019
