@@ -765,11 +765,9 @@
 
 ### Day 97: November 9, 2019
 
-**Today's Progress**:
+**Today's Progress**: I stopped the training to try out weights. I used the 200 version, but it's still no good enough, I tried predictions on test images and on the train images, but it's not detecting properly yet. Left it to continue training.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Video-Content-Measuring-Tool
 
 
 ### Day 98: November 10, 2019
