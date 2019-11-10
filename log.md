@@ -772,11 +772,7 @@
 
 ### Day 98: November 10, 2019
 
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
+**Today's Progress**: Today was a break from Python to me, because I helped a friend with Java project.
 
 
 ### Day 99: November 11, 2019
