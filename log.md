@@ -774,6 +774,8 @@
 
 **Today's Progress**: Today was a break from Python to me, because I helped a friend with Java project.
 
+**Thoughts**: Going back to working with Java helped me to realise how much I love Python.
+
 
 ### Day 99: November 11, 2019
 
