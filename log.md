@@ -774,16 +774,14 @@
 
 **Today's Progress**: Today was a break from Python to me, because I helped a friend with Java project.
 
-**Thoughts**: Going back to working with Java helped me to realise how much I love Python.
+**Thoughts**: Going back to working with Java helped me to realize how much I love Python.
 
 
 ### Day 99: November 11, 2019
 
-**Today's Progress**:
+**Today's Progress**: Did a challenge on PyBites platform, also created a simple script to check if this log file has correct number of days.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Link(s) to work**: https://codechalleng.es/
 
 
 ### Day 100: November 12, 2019
