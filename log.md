@@ -786,8 +786,8 @@
 
 ### Day 100: November 12, 2019
 
-**Today's Progress**:
+**Today's Progress**: Since I was at funerals today, when I came back I decided to create script to scrape a website for information of who died on this day. Main project is on 226th iteration.
 
-**Thoughts**:
+**Thoughts**: This is the last day of the challenge, I think I'm gonna take break for a week or two. I'm really happy I did this challenge, it helped me to create a habit and in a way freed me to do other stuff, when I'm finished coding. I think I'll repeat this challenge in the future.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/eXTure/Python-Scrapes/blob/master/who_died_today.py
